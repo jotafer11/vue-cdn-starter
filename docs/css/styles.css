@@ -1,0 +1,50 @@
+body {
+    background-color: #39417f;
+    color: #737fe3;
+}
+
+#nav {
+  padding: 14px 26px 20px;
+  font-size: 20px;
+  text-align: center;  
+}
+
+#nav a {
+  color: #737fe3;
+  text-decoration: none;
+  padding-left: 20px;
+}
+
+#nav a:hover {
+  text-decoration: none;
+  color: #46cefc;
+}
+
+.container {
+  width: 90%;
+  max-width: 800px;
+  justify-content: center;
+  border: 2px solid #737fe3;
+  border-radius: 20px;
+  padding: 25px 50px 75px;
+}
+
+a {
+  color: #737fe3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #46cefc;
+}
+
+.form-check-label {
+  margin-left: 5px;
+}
+
+#setsito {
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+}
